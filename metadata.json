@@ -1,0 +1,6 @@
+{
+  "name": "NL2Q Workbench",
+  "description": "An AI-powered database IDE and Natural Language to SQL workbench that combines SQL execution, schema exploration, query generation, safety verification, and smart database insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
